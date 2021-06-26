@@ -12,7 +12,7 @@
 	<atom:link href="/VemiShop/category/smartphone/feed/" rel="self" type="application/rss+xml" />
 	<link>/VemiShop</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sat, 22 May 2021 03:58:07 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 26 Jun 2021 10:19:44 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -134,6 +134,10 @@
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <iframe loading="lazy" title="Đánh giá chi tiết ROG Phone 3 - Nhà Vua đã trở lại" width="980" height="551" src="https://www.youtube.com/embed/JnIBx4N6oiY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></figure>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="225" height="225" src="/VemiShop/wp-content/uploads/2021/06/GoogleDrive_op-vsmart-joy-4-cung-den.jpg" alt="" data-id="130" data-full-url="/VemiShop/wp-content/uploads/2021/06/GoogleDrive_op-vsmart-joy-4-cung-den.jpg" data-link="/VemiShop/googledrive_op-vsmart-joy-4-cung-den/" class="wp-image-130"/></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="460" height="460" src="/VemiShop/wp-content/uploads/2021/06/GoogleDrive_op-deo-trong-suot-vien-mau-bao-ve-camera-cho-vsmart-joy-4-mau-xanh-duong.jpg" alt="" data-id="129" data-full-url="/VemiShop/wp-content/uploads/2021/06/GoogleDrive_op-deo-trong-suot-vien-mau-bao-ve-camera-cho-vsmart-joy-4-mau-xanh-duong.jpg" data-link="/VemiShop/googledrive_op-deo-trong-suot-vien-mau-bao-ve-camera-cho-vsmart-joy-4-mau-xanh-duong/" class="wp-image-129"/></figure></li></ul></figure>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/VemiShop/smartphone/asus-ra-mat-rog-phone-3-snapdragon-865-man-hinh-144hz-pin-6000mah-gia-tu-21-5-trieu-dong/feed/</wfw:commentRss>
