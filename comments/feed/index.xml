@@ -11,29 +11,11 @@
 	<atom:link href="/VemiShop/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/VemiShop</link>
 	<description></description>
-	<lastBuildDate>Sat, 22 May 2021 03:34:38 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 05 Jul 2021 13:03:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>/VemiShop/khong-phan-loai/chao-moi-nguoi/#comment-9</link>
-
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Sat, 22 May 2021 03:34:38 +0000</pubDate>
-		<guid isPermaLink="false">/VemiShop/?p=1#comment-9</guid>
-
-					<description><![CDATA[Xin chào, đây là một bình luận
-Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
-Avatar của người bình luận sử dụng &lt;a href=&quot;https://gravatar.com&quot;/ rel=&quot;nofollow ugc&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Xin chào, đây là một bình luận<br />
-Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.<br />
-Avatar của người bình luận sử dụng <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
