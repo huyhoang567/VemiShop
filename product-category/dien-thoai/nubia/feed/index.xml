@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Nubia &#8211; VemiShop</title>
-	<atom:link href="http://https://huyhoang567.github.io/VemiShop/product-category/dien-thoai/nubia/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://huyhoang567.github.io/VemiShop</link>
+	<atom:link href="/VemiShop/product-category/dien-thoai/nubia/feed/" rel="self" type="application/rss+xml" />
+	<link>/VemiShop</link>
 	<description></description>
 	<lastBuildDate>Sun, 04 Jul 2021 14:07:37 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>http://https://huyhoang567.github.io/VemiShop/wp-content/uploads/2021/07/Untitled-2-1.png</url>
+	<url>/VemiShop/wp-content/uploads/2021/07/Untitled-2-1.png</url>
 	<title>Nubia &#8211; VemiShop</title>
-	<link>http://https://huyhoang567.github.io/VemiShop</link>
+	<link>/VemiShop</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Điện thoại Red Magic 6 Pro</title>
-		<link>http://https://huyhoang567.github.io/VemiShop/san-pham/redmagic-6-pro/</link>
-					<comments>http://https://huyhoang567.github.io/VemiShop/san-pham/redmagic-6-pro/#respond</comments>
+		<link>/VemiShop/san-pham/redmagic-6-pro/</link>
+					<comments>/VemiShop/san-pham/redmagic-6-pro/#respond</comments>
 		
 		<dc:creator><![CDATA[taconghuyhoang]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 15:36:30 +0000</pubDate>
-				<guid isPermaLink="false">http://https://huyhoang567.github.io/VemiShop/?post_type=product&#038;p=218</guid>
+				<guid isPermaLink="false">/VemiShop/?post_type=product&#038;p=218</guid>
 
 					<description><![CDATA[THÔNG SỐ KỸ THUẬT Kích thước màn hình AMOLED, 6.8&#8243;, Full HD+ Công nghệ màn hình AMOLED Camera sau Chính 64 MP &#38; Phụ 8 MP, 2 MP Camera trước 8MP, f/2.0 Chipset Snapdragon 888 5G (5 nm) Dung lượng RAM 16 GB Bộ nhớ trong 256 GB Pin 4500 mAh Thẻ SIM 2 SIM [&#8230;]]]></description>
 										<content:encoded><![CDATA[<div class="header">
@@ -90,21 +90,21 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://huyhoang567.github.io/VemiShop/san-pham/redmagic-6-pro/feed/</wfw:commentRss>
+					<wfw:commentRss>/VemiShop/san-pham/redmagic-6-pro/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Điện thoại Redmagic 6</title>
-		<link>http://https://huyhoang567.github.io/VemiShop/san-pham/redmagic-6/</link>
-					<comments>http://https://huyhoang567.github.io/VemiShop/san-pham/redmagic-6/#respond</comments>
+		<link>/VemiShop/san-pham/redmagic-6/</link>
+					<comments>/VemiShop/san-pham/redmagic-6/#respond</comments>
 		
 		<dc:creator><![CDATA[taconghuyhoang]]></dc:creator>
 		<pubDate>Wed, 30 Jun 2021 15:35:09 +0000</pubDate>
-				<guid isPermaLink="false">http://https://huyhoang567.github.io/VemiShop/?post_type=product&#038;p=217</guid>
+				<guid isPermaLink="false">/VemiShop/?post_type=product&#038;p=217</guid>
 
-					<description><![CDATA[Thêm một cái tên vàng trong làng gaming đó chính là Nubia Red. Tuy điện thoại này là cái tên còn khá xa lạ nhưng những gì được trang bị cho máy từ thiết kế tới hiệu năng đều khiến cho người dùng không thể ấn tượng hơn từ lần trải nghiệm đầu tiên. Và phiên bản mới nhất của hãng được mang tên <strong>Nubia Red Magic 6</strong>. Ngoài ra, bạn cũng có thể tham khảo thêm <a href="http://https://huyhoang567.github.io/VemiShop/cua-hang/red-magic-6/">Nubia Red Magic 6R</a> với mức giá hấp dẫn hơn.]]></description>
+					<description><![CDATA[Thêm một cái tên vàng trong làng gaming đó chính là Nubia Red. Tuy điện thoại này là cái tên còn khá xa lạ nhưng những gì được trang bị cho máy từ thiết kế tới hiệu năng đều khiến cho người dùng không thể ấn tượng hơn từ lần trải nghiệm đầu tiên. Và phiên bản mới nhất của hãng được mang tên <strong>Nubia Red Magic 6</strong>. Ngoài ra, bạn cũng có thể tham khảo thêm <a href="/VemiShop/cua-hang/red-magic-6/">Nubia Red Magic 6R</a> với mức giá hấp dẫn hơn.]]></description>
 										<content:encoded><![CDATA[<div class="header">
 <h2>THÔNG SỐ KỸ THUẬT</h2>
 </div>
@@ -158,7 +158,7 @@ Camera cận cảnh: 2 MP</td>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://huyhoang567.github.io/VemiShop/san-pham/redmagic-6/feed/</wfw:commentRss>
+					<wfw:commentRss>/VemiShop/san-pham/redmagic-6/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

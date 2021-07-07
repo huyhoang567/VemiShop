@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Asus &#8211; VemiShop</title>
-	<atom:link href="http://https://huyhoang567.github.io/VemiShop/product-category/dien-thoai/asus/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://huyhoang567.github.io/VemiShop</link>
+	<atom:link href="/VemiShop/product-category/dien-thoai/asus/feed/" rel="self" type="application/rss+xml" />
+	<link>/VemiShop</link>
 	<description></description>
 	<lastBuildDate>Sun, 04 Jul 2021 12:43:12 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
-	<url>http://https://huyhoang567.github.io/VemiShop/wp-content/uploads/2021/07/Untitled-2-1.png</url>
+	<url>/VemiShop/wp-content/uploads/2021/07/Untitled-2-1.png</url>
 	<title>Asus &#8211; VemiShop</title>
-	<link>http://https://huyhoang567.github.io/VemiShop</link>
+	<link>/VemiShop</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Điện thoại Asus ROG Phone 3</title>
-		<link>http://https://huyhoang567.github.io/VemiShop/san-pham/dien-thoai-asus-rog-phone-3/</link>
-					<comments>http://https://huyhoang567.github.io/VemiShop/san-pham/dien-thoai-asus-rog-phone-3/#respond</comments>
+		<link>/VemiShop/san-pham/dien-thoai-asus-rog-phone-3/</link>
+					<comments>/VemiShop/san-pham/dien-thoai-asus-rog-phone-3/#respond</comments>
 		
 		<dc:creator><![CDATA[taconghuyhoang]]></dc:creator>
 		<pubDate>Sat, 19 Jun 2021 04:25:08 +0000</pubDate>
-				<guid isPermaLink="false">http://https://huyhoang567.github.io/VemiShop/?post_type=product&#038;p=108</guid>
+				<guid isPermaLink="false">/VemiShop/?post_type=product&#038;p=108</guid>
 
 					<description><![CDATA[Luôn là Gaming Phone được đánh giá đỉnh nhất, <a href="https://mobilecity.vn/asus/asus-rog-phone-3.html" target="_blank" rel="noopener noreferrer">Asus ROG Phone 3</a> (Tencent) sở hữu bộ cấu hình khủng mà chỉ cần nhìn đã muốn tậu ngay Ae ạ: Chip Snapdragon 865+, RAM 8-12GB, Bộ nhớ 128-512GB chuẩn UFS 3.1 nhanh nhất hiện nay. Ngoài ra viên Pin 6000mAh cũng là lớn nhất dòng Gaming Phone hiện nay rồi!]]></description>
 										<content:encoded><![CDATA[<p>Thông số kỹ thuật</p>
@@ -84,7 +84,7 @@
 </table>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://https://huyhoang567.github.io/VemiShop/san-pham/dien-thoai-asus-rog-phone-3/feed/</wfw:commentRss>
+					<wfw:commentRss>/VemiShop/san-pham/dien-thoai-asus-rog-phone-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
