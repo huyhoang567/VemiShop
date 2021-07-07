@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Bình luận cho VemiShop	</title>
-	<atom:link href="/VemiShop/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/VemiShop</link>
+	<atom:link href="http://https://huyhoang567.github.io/VemiShop/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://huyhoang567.github.io/VemiShop</link>
 	<description></description>
-	<lastBuildDate>Mon, 05 Jul 2021 15:02:36 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 06 Jul 2021 15:12:32 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

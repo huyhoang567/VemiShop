@@ -1,0 +1,17 @@
+/* Start custom CSS *//* Style nút back to top */
+.back-to-top-button {
+	height: 75px;
+	width: 75px;
+	position: fixed;
+	right: 5px;
+	bottom: 85px;
+	z-index: 1;
+	background-repeat: no-repeat;
+	display: none;
+}
+@media screen and (max-width: 768px) {
+	.back-to-top-button {
+	height: 50px;
+	width: 50px;
+}
+}/* End custom CSS */
